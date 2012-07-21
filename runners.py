@@ -15,6 +15,8 @@
 #  specific language governing permissions and limitations
 #  under the License.
 
+##### CHANGE THE LAST FEW LINES TO MATCH YOUR ENVIRONMENT #####
+
 import os
 import csv
 import json
